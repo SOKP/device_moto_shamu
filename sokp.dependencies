@@ -1,6 +1,12 @@
 [
   {
-    "repository": "android_kernel_moto_shamu",
-    "target_path": "kernel/moto/shamu"
+    "repository": "kernel_moto_shamu",
+    "target_path": "kernel/moto/shamu",
+	"branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+	"branch":      "sokp-l5.1"
   }
 ]
